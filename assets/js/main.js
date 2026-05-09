@@ -88,4 +88,4 @@ waLink.textContent = 'Chat WhatsApp';
 waLink.href = `https://wa.me/${data.whatsapp}`;
 
 // FOOTER
-document.getElementById('footer-text').textContent = data.footer_text;
+document.getElementById('footer-text').innerHTML = '© 2025 Dibuat oleh <a href="https://ikyshinicy.xyz" target="_blank" style="color: var(--color-accent); font-weight: 600;">Rizky Reranza</a>';
