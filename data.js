@@ -35,9 +35,9 @@ const data = {
   produk_judul: "Menu Pilihan Kami",
   produk: [
     {
-      nama: "Chocolate Cake",
+      nama: "LONTAR BIASA",
       deskripsi: "Lembut, moist, dan coklat banget",
-      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+      foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778343776/lontar1_y2dtmy.png"
     },
     {
       nama: "Red Velvet",
