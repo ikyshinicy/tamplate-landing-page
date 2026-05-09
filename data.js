@@ -53,7 +53,7 @@ const data = {
       nama: "LONTAR MINI",
       deskripsi: "",
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778345343/ChatGPT_Image_9_Mei_2026_23.48.44_dlchqo.png"
-    }
+    },
     {
       nama: "PUDDING",
       deskripsi: "Toping Susu Coklat Almond",
@@ -65,9 +65,9 @@ const data = {
       foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
     }
     {
-      nama: "Es Kopi Susu",
-      deskripsi: "Kopi susu segar dengan es batu",
-      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+      nama: "Es cincau",
+      deskripsi: "Kopi susu segar dengan Potongan Cincau",
+      foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778346629/aaaa_g4z3uq.jpg"
     }
     {
       nama: "Teh Tarik",
