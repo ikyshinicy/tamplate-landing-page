@@ -55,9 +55,9 @@ const data = {
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778345343/ChatGPT_Image_9_Mei_2026_23.48.44_dlchqo.png"
     }
     {
-      nama: "Lontar Coklat",
-      deskripsi: "Pie susu dengan topping coklat lembut",
-      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+      nama: "PUDDING",
+      deskripsi: "Toping Susu Coklat Almond",
+      foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778346239/ChatGPT_Image_10_Mei_2026_00.03.41_krggcb.png"
     }
     {
       nama: "Lontar Keju",
