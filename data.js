@@ -96,7 +96,7 @@ const data = {
     }
   ],
 
-  kontak_judul: "Siap Menerima Pesanan",
+  kontak_judul: "Siap Menerima Pesanan, Satuan / Banyak | Sistem PO ( Tidak Ready Stock) ",
   kontak_sub: "Hubungi kami lewat WhatsApp untuk pemesanan dan info lebih lanjut.",
   whatsapp: "6285244777473",
   alamat: "Sorong, Papua Barat Daya",
