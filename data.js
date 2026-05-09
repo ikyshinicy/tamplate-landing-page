@@ -54,6 +54,26 @@ const data = {
       deskripsi: "",
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778345343/ChatGPT_Image_9_Mei_2026_23.48.44_dlchqo.png"
     }
+    {
+      nama: "Lontar Coklat",
+      deskripsi: "Pie susu dengan topping coklat lembut",
+      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+    },
+    {
+      nama: "Lontar Keju",
+      deskripsi: "Pie susu dengan topping keju gurih",
+      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+    },
+    {
+      nama: "Es Kopi Susu",
+      deskripsi: "Kopi susu segar dengan es batu",
+      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+    },
+    {
+      nama: "Teh Tarik",
+      deskripsi: "Teh susu creamy khas homemade",
+      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+    }
   ],
 
   // ================================
