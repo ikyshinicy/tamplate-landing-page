@@ -1,0 +1,33 @@
+/* ================================
+   TEMA - ASYILLA HOMEMADE
+   Ganti file ini untuk tiap klien
+   ================================ */
+
+:root {
+
+  /* WARNA UTAMA */
+  --color-accent:       #C97B63;   /* warna brand / tombol */
+  --color-btn-text:     #ffffff;   /* teks di atas tombol */
+
+  /* BACKGROUND */
+  --color-bg:           #FFFAF7;   /* background utama */
+  --color-section-alt:  #FDF3ED;   /* background seksi selang-seling */
+  --color-nav-bg:       #FFFAF7;   /* background navbar */
+  --color-card-bg:      #ffffff;   /* background card */
+
+  /* TEKS */
+  --color-heading:      #2C1810;   /* judul */
+  --color-text:         #3D2B1F;   /* teks utama */
+  --color-text-muted:   #7A5C52;   /* teks sekunder */
+
+  /* BORDER */
+  --color-border:       #EDD9CF;   /* garis border */
+
+  /* TIPOGRAFI */
+  --font-heading: 'Playfair Display', Georgia, serif;
+  --font-body:    'DM Sans', Arial, sans-serif;
+
+}
+
+/* GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=DM+Sans:wght@400;500;600&display=swap');
