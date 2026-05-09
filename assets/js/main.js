@@ -17,6 +17,7 @@ document.getElementById('foto-hero').alt            = data.nama_usaha;
 // TENTANG
 document.getElementById('tentang-judul').textContent      = data.tentang_judul;
 document.getElementById('tentang-deskripsi').textContent  = data.tentang_deskripsi;
+document.getElementById('foto-promosi').src = data.foto_promosi;
 document.getElementById('stat-1-angka').textContent       = data.stat_1_angka;
 document.getElementById('stat-1-label').textContent       = data.stat_1_label;
 document.getElementById('stat-2-angka').textContent       = data.stat_2_angka;
