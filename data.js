@@ -35,24 +35,24 @@ const data = {
   produk_judul: "Menu Pilihan Kami",
   produk: [
     {
-      nama: "LONTAR BIASA",
+      nama: "LONTAR BESAR",
       deskripsi: "",
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778343776/lontar1_y2dtmy.png"
     },
     {
-      nama: "LONTAR COKLAT",
-      deskripsi: "",
+      nama: "LONTAR BESAR",
+      deskripsi: "Toping Coklat",
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778344446/Gemini_Generated_Image_84dsr584dsr584ds_agplij.png"
     },
     {
-      nama: "Matcha Latte",
-      deskripsi: "Minuman matcha segar dan creamy",
-      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+      nama: "LONTAR BESAR",
+      deskripsi: "Toping Keju",
+      foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778345181/Gemini_Generated_Image_dippwodippwodipp_cye9lw.png"
     },
     {
-      nama: "Brown Sugar Milk Tea",
-      deskripsi: "Teh susu dengan brown sugar hits",
-      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+      nama: "LONTAR MINI",
+      deskripsi: "",
+      foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778345343/ChatGPT_Image_9_Mei_2026_23.48.44_dlchqo.png"
     }
   ],
 
@@ -99,7 +99,7 @@ const data = {
   // ================================
   kontak_judul: "Siap Menerima Pesanan",
   kontak_sub: "Hubungi kami lewat WhatsApp untuk pemesanan dan info lebih lanjut.",
-  whatsapp: "628123456789",
+  whatsapp: "6285244777473",
   alamat: "Sorong, Papua Barat Daya",
   jam_operasional: "Buka setiap hari: 08.00 – 21.00 WIT",
 
