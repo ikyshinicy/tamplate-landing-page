@@ -64,12 +64,14 @@ const data = {
 
   harga_judul: "Harga Terjangkau, Kualitas Terjamin",
   harga: [
-    { nama: "Chocolate Cake (loyang)",  harga: "Rp 150.000" },
-    { nama: "Chocolate Cake (slice)",   harga: "Rp 20.000"  },
-    { nama: "Red Velvet (loyang)",      harga: "Rp 160.000" },
-    { nama: "Red Velvet (slice)",       harga: "Rp 22.000"  },
-    { nama: "Matcha Latte",             harga: "Rp 18.000"  },
-    { nama: "Brown Sugar Milk Tea",     harga: "Rp 18.000"  }
+    { nama: "lontar Besar / Piring",  harga: "Rp 120.000" },
+    { nama: "Lontar Besar Toping Keju / Piring ",   harga: "Rp 130.000"  },
+    { nama: "Brownis Keju ",            harga: "Rp 100.000" },
+    { nama: "Brownis Ultah",            harga: "Rp 110.000"  },
+    { nama: "Brownis Kotak Ori 18x18",  harga: "Rp 90.000"  },
+    { nama: "Puding Mini / cup",        harga: "Rp 3.500"  },
+    { nama: "Lontar Mini / Cup",        harga: "Rp 3.500"  },
+    { nama: "Es Cincau / Botol",        harga: "Rp 10.000"  }
   ],
 
   testimoni_judul: "Kata Mereka",
