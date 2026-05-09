@@ -51,14 +51,14 @@ const data = {
       foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
     },
     {
-      nama: "Es Cincau",
+      nama: "ES CINCAU",
       deskripsi: "Kopi susu segar dengan Potongan Cincau",
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778346629/aaaa_g4z3uq.jpg"
     },
     {
-      nama: "Teh Tarik",
-      deskripsi: "Teh susu creamy khas homemade",
-      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+      nama: "LONTAR COKLAT MINI",
+      deskripsi: "",
+      foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778346911/ChatGPT_Image_10_Mei_2026_00.14.56_fvdt5a.png"
     }
   ],
 
