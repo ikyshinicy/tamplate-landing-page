@@ -435,4 +435,12 @@ ul {
   .nav-links {
     display: none;
   }
+
+  .produk-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .produk-card img {
+    height: 140px;
+  }
 }
