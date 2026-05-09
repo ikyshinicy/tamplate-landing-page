@@ -38,17 +38,17 @@ const data = {
       nama: "LONTAR BESAR",
       deskripsi: "",
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778343776/lontar1_y2dtmy.png"
-    },
+    }
     {
       nama: "LONTAR BESAR",
       deskripsi: "Toping Coklat",
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778344446/Gemini_Generated_Image_84dsr584dsr584ds_agplij.png"
-    },
+    }
     {
       nama: "LONTAR BESAR",
       deskripsi: "Toping Keju",
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778345181/Gemini_Generated_Image_dippwodippwodipp_cye9lw.png"
-    },
+    }
     {
       nama: "LONTAR MINI",
       deskripsi: "",
@@ -63,12 +63,12 @@ const data = {
       nama: "Lontar Keju",
       deskripsi: "Pie susu dengan topping keju gurih",
       foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
-    },
+    }
     {
       nama: "Es Kopi Susu",
       deskripsi: "Kopi susu segar dengan es batu",
       foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
-    },
+    }
     {
       nama: "Teh Tarik",
       deskripsi: "Teh susu creamy khas homemade",
