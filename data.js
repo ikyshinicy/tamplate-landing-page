@@ -58,7 +58,7 @@ const data = {
       nama: "Lontar Coklat",
       deskripsi: "Pie susu dengan topping coklat lembut",
       foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
-    },
+    }
     {
       nama: "Lontar Keju",
       deskripsi: "Pie susu dengan topping keju gurih",
