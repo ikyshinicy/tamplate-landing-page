@@ -36,13 +36,13 @@ const data = {
   produk: [
     {
       nama: "LONTAR BIASA",
-      deskripsi: "Lembut, moist, dan coklat banget",
+      deskripsi: "",
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778343776/lontar1_y2dtmy.png"
     },
     {
-      nama: "Red Velvet",
-      deskripsi: "Cantik merah dengan cream cheese lembut",
-      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+      nama: "LONTAR COKLAT",
+      deskripsi: "",
+      foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778344446/Gemini_Generated_Image_84dsr584dsr584ds_agplij.png"
     },
     {
       nama: "Matcha Latte",
