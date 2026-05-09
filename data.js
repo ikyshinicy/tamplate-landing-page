@@ -46,9 +46,9 @@ const data = {
       foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778346239/ChatGPT_Image_10_Mei_2026_00.03.41_krggcb.png"
     },
     {
-      nama: "Lontar Keju",
-      deskripsi: "Pie susu dengan topping keju gurih",
-      foto: "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+      nama: "BROWNIS",
+      deskripsi: "",
+      foto: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778345913/ChatGPT_Image_9_Mei_2026_23.58.18_k52asm.png"
     },
     {
       nama: "ES CINCAU",
@@ -64,7 +64,7 @@ const data = {
 
   harga_judul: "Harga Terjangkau, Kualitas Terjamin",
   harga: [
-    { nama: "lontar Besar / Piring",  harga: "Rp 120.000" },
+    { nama: "Lontar Besar / Piring",  harga: "Rp 120.000" },
     { nama: "Lontar Besar Toping Keju / Piring ",   harga: "Rp 130.000"  },
     { nama: "Brownis Keju ",            harga: "Rp 100.000" },
     { nama: "Brownis Ultah",            harga: "Rp 110.000"  },
