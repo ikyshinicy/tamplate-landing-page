@@ -11,7 +11,7 @@ const data = {
   // ================================
   // HERO
   // ================================
-  foto_hero: "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+  foto_hero: "https://res.cloudinary.com/dipsvuknp/image/upload/v1778342571/hero_ivq8bt.png",
 
   // ================================
   // TENTANG
